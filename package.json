@@ -1,5 +1,4 @@
 {
   "name": "example_plugin_that_breaks",
-  "version": "5.0.0",
-  "author": "Nick Gonsalves <nigons@microsoft.com>"
-}
+  "version": "5.0.0"
+  }
